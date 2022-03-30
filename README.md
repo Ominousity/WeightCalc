@@ -1,2 +1,2 @@
-# VaegtUdregner
-Program til at udregne dit daglige vægttab
+# WeightCalc
+A simple program for calculating daily waightloss

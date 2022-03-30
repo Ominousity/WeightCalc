@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class GennemsnitligVægtTab {
+public class AverageWeightLoss {
 
     public List<Double> CreateListOfNumbers() throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new FileReader("src/Vægt.txt"));
